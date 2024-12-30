@@ -34,4 +34,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrabhi198&" alt="mrabhi198" /></p>
 
-[![Abhinav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrabhi198&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrabhi198/mrabhi198/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrabhi198/mrabhi198/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mrabhi198/mrabhi198/output/github-snake.svg" />
+</picture>
